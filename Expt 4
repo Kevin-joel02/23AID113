@@ -1,0 +1,6 @@
+favourite_number = 7   # change this if you want
+
+if favourite_number % 2 == 0:
+    print(favourite_number, "is Even")
+else:
+    print(favourite_number, "is Odd")
